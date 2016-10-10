@@ -1,0 +1,3 @@
+metadata:
+  annotations:
+    api.service.kubernetes.io/path: /war-camel-servlet/camel/hello?name=fabric8
