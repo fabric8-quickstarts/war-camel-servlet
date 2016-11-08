@@ -1,4 +1,4 @@
-# Camel Servlet QuickStart
+# War Camel Servlet
 
 This example demonstrates how you can use Servlet to expose a http
 service in a Camel route, and run that in a servlet container such as
@@ -23,7 +23,7 @@ greeting message.
 
 # Building this example
 
-Building and running this quickstart consists of three steps:
+Building and running this quickstart consists of a single steps:
 
 ## Building
 
